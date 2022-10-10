@@ -1,2 +1,2 @@
 #!/bin/bash
-grep root
+cat /etc/psswd | grep root 
